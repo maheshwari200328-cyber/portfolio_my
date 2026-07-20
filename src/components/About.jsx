@@ -1,8 +1,8 @@
 function About(){
     return(
         <section id="about" className="bg-slate-800 text-white py-20 ">
-            <div className="max-w-6xl mx-auto px-8">
-                <h1 className="text-5xl font-bold text-white mb-12">About Me</h1>
+            <div className="max-w-6xl mx-auto px-4 md:px-8">
+                <h1 className=" text-3xl md:text-5xl font-bold text-white mb-12">About Me</h1>
                 <div className="grid md:grid-cols-2 gap-10 items-center">
                     <p className="text-gray-300 leading-8 ">
                          I am a passionate Full Stack Developer who enjoys building responsive and user-friendly web applications using React, JavaScript and Tailwind CSS.

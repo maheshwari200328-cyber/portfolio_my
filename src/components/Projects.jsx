@@ -28,8 +28,8 @@ function Projects(){
     },]
     return(
         <section id="projects" className="bg-slate-900 items-center py-20 text-white">
-            <div className="max-w-6xl mx-auto px-8">
-                <h1 className="font-bold text-5xl text-center">
+            <div className="max-w-6xl mx-auto px-4 md:px-8">
+                <h1 className="font-bold text-3xl md:text-5xl text-center">
                     My Projects
                 </h1>
 

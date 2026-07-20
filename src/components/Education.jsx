@@ -15,8 +15,8 @@ function Education(){
 }]
     return(
        <section id="education" className="bg-slate-900 items-center py-20 text-white">
-        <div className="max-w-6xl mx-auto px-8">
-            <h1 className="font-bold text-5xl text-center">Education</h1>
+        <div className="max-w-6xl mx-auto px-4 md:px-8">
+            <h1 className="font-bold text-3xl md:text-5xl text-center">Education</h1>
         </div>
         <div className="grid md:grid-cols-2 mt-5 p-4 gap-8">
             {

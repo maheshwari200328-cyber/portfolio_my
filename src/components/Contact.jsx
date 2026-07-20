@@ -9,8 +9,8 @@ function Contact(){
     }
     return(
         <section id="contact" className="bg-slate-900 items-center py-20 text-white">
-            <div className="max-w-6xl mx-auto px-8 ">
-                <h1 className="font-bold text-center  text-5xl">Contact Me</h1>
+            <div className="max-w-6xl mx-auto px-4 md:px-8 ">
+                <h1 className="font-bold text-center text-3xl  md:text-5xl">Contact Me</h1>
             </div>
             
               

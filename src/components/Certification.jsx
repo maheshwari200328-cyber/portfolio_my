@@ -38,8 +38,8 @@ const certificates=[{
 const visibleCertificates=showAll ? certificates:certificates.slice(0,6)
     return(
         <section id="certification" className="bg-slate-900 items-center py-20 text-white ">
-            <div className="max-w-6xl mx-auto px-8 ">
-                <h1 className="font-bold text-5xl  text-center">Certifications</h1>
+            <div className="max-w-6xl mx-auto px-4 md:px-8 ">
+                <h1 className="font-bold text-3xl md:text-5xl  text-center">Certifications</h1>
             </div>
             <div className="grid md:grid-cols-3 sm:grid-cols-2 gap-8 mt-5  p-4">
                 {
