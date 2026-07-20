@@ -10,9 +10,9 @@ function Hero(){
 
 
     return(
-       <section id="hero" className="bg-slate-900 text-white min-h-screen flex mt-20 items-center ">
-        <div className="max-w-7xl grid md:grid-cols-2 mx-auto px-4 pt-20 md:pt-0 md:px-8 gap-12 items-center">
-            {/* left side */}
+       <section id="hero" className="bg-slate-900 text-white py-20 pb-12 flex    items-center scroll-mt-20 " >
+        <div className="max-w-6xl grid md:grid-cols-2 mx-auto px-4  md:pt-12 md:px-8 gap-12 items-center">
+            {/* left side  max-w-6xl mx-auto px-4 md:px-8   --bg-slate-800 text-white py-20 */}
             <motion.div initial={{
                 x:-100,
                 opacity:0

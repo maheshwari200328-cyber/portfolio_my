@@ -14,6 +14,7 @@ function App() {
 
   return (
     <>
+   
     <Navbar/>
     <Hero/>
     <About/>
@@ -23,6 +24,8 @@ function App() {
     <Certification/>
     <Contact/>
     <Footer/>
+    
+    
 
     </>
   )
